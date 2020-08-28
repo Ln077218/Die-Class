@@ -1,4 +1,5 @@
-# Git Lab #2
-## First team member: <Lucas Nagle>
-
-Die class project. It simulates a die and includes a driver program.
+# The second Git lab
+## First team member: Lucas
+## Second team member: Nagle
+### Die Project: simulates the rolling of a die with a specified number of
+sides.
