@@ -1,2 +1,4 @@
 # Git Lab #2
-## Second Team Member: <Lucas Nagle> 
+## First  Team Member: <Lucas Nagle> 
+## Second  team member: <Lucas Nagle>
+This repository is an example of a C++ project.
