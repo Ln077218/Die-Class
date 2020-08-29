@@ -1,4 +1,4 @@
-. Error to push because changes are saved remotely and they are not saved 
+1. Error to push because changes are saved remotely and they are not saved 
 	in the local repo.
 
 2. remote: Enumerating objects: 11, done.
