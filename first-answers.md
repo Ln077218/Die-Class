@@ -24,4 +24,10 @@ Automatic merge failed; fix conflicts and then commit the result.
 -a----        8/28/2020   9:11 PM            585 second-answers.md
 -a----        8/28/2020   8:28 PM             31 Test.md
 
-6.
+6.-a----        8/28/2020   5:41 PM            302 .gitignore
+-a----        8/28/2020   9:32 PM            585 first-answers.md
+-a----        8/28/2020   7:57 PM            165 README.md
+-a----        8/28/2020   9:11 PM            585 second-answers.md
+-a----        8/28/2020   8:28 PM             31 Test.md
+
+6. No because unless a merge happens all changes stay within the branch
