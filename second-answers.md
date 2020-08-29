@@ -30,7 +30,7 @@ Automatic merge failed; fix conflicts and then commit the result.
 -a----        8/28/2020   9:11 PM            585 second-answers.md
 
 
-6. No because unless a merge happens all changes stay within the branch
+7. No because unless a merge happens all changes stay within the branch
 
 
 
